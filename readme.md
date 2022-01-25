@@ -2,6 +2,9 @@
 
 This is a readme.md generator I developed with: JavaScript, Node.js, and file-system (npm). It will take user inputs for various sections and output them into a readme.md in the output folder. Each file will contain an .md file that includes a table of contents and sections for: Description, Installation, Usage, Contributing, License, and Contact.
 
+Video demo link: 
+https://vimeo.com/669675917/3cd01251ac
+
 ## Installation
 
 Install Node onto your computer and then right click index.js, "Open in Integrated Terminal".
